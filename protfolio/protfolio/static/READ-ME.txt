@@ -1,0 +1,9 @@
+  =>  Template Name    : s_kumar Portfolio 
+
+  =>  Template Link    : 
+
+  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : HTML Codex
+
+  =>  Author Website   : https://skumar74604.com
