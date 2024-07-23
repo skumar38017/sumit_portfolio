@@ -37,6 +37,7 @@
 </head>
 
 <body data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="51">
+    
     <!-- Spinner Start -->
     <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
@@ -47,29 +48,29 @@
 
 
     <!-- Navbar Start -->
-    <nav class="navbar navbar-expand-lg bg-white navbar-light fixed-top shadow py-lg-0 px-4 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
+    <nav class="navbar navbar-expand-lg bg-white navbar-light fixed-top shadow py-lg-0 px-0 px-lg-15 wow fadeIn" data-wow-delay="0.1Ss">
         <a href="index.html" class="navbar-brand d-block d-lg-none">
-            <h1 class="text-primary fw-bold m-0">#</h1>
+            <h1 class="text-primary fw-bold m-0"></h1>
         </a>
         <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse justify-content-between py-4 py-lg-0" id="navbarCollapse">
             <div class="navbar-nav ms-auto py-0">
-                <a href="#home" class="nav-item nav-link active">Home</a>
-                <a href="#about" class="nav-item nav-link">About</a>
-                <a href="#skill" class="nav-item nav-link">Skills</a>
-                <a href="#service" class="nav-item nav-link">Services</a>
+                <a href="#home" class="nav-item nav-link active">home</a>
+                <a href="#about" class="nav-item nav-link">about</a>
+                <a href="#skill" class="nav-item nav-link">skill</a>
+                <a href="#service" class="nav-item nav-link">service</a>
             </div>
             <a href="https://aws.amazon.com/verification">
-                <h1 class="text-primary fw-bold m-0"> <span> <img  src="static/img/aws-certified-solutions-architect-associate .png" alt="img" >
+                <h1 class="text-primary fw-bold m-0"> <span> <img style="width:95px; hight:95px;" src="static/img/aws-certified-solutions-architect-associate .png" alt="img" >
                 </span></h1>
             </a>
             <div class="navbar-nav me-auto py-0">
-                <a href="#project" class="nav-item nav-link">Projects</a>
-                <a href="#team" class="nav-item nav-link">Team</a>
-                <a href="#testimonial" class="nav-item nav-link">Testimonial</a>
-                <a href="#contact" class="nav-item nav-link">Contact</a>
+                <a href="#project" class="nav-item nav-link">project</a>
+                <a href="#team" class="nav-item nav-link">team</a>
+                <a href="#testimonial" class="nav-item nav-link">testimonial</a>
+                <a href="#contact" class="nav-item nav-link">contact</a>
             </div>
         </div>
     </nav>
@@ -77,16 +78,13 @@
 
 
     <!-- Header Start -->
-
     <div class="container-fluid bg-light my-6 mt-0" id="home">
-        <h1>Profile QR Code</h1>
-        <div class="qr-code">
-            <img src="https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://www.example.com/profile" alt="QR Code">
+        <div class="d-flex align-items-center pt-3">            
+                <img class="img-fluid" style="height:350px; width:100%; border-radius: 60%;" src="https://miro.medium.com/v2/resize:fit:1400/1*_C229kNHrLID-ST8g9Ao_g.gif" alt="img" >
         </div>
-        <img style="width: 100%; height: 620px; " src="https://media.istockphoto.com/id/1423173157/vector/devops-and-devsecops-conceptual-illustration.jpg?s=612x612&w=0&k=20&c=QEYXCOLWlHbAs--7otoB5RnmoNHM1ngsFePZaFhSiD4=" alt="">
         <div class="container">
-            <div class="row g-5 align-items-center">
-                <div class="col-lg-6 py-6 pb-0 pt-lg-0">
+            <div class="row g-7 align-items-center">
+                <div class="col-lg-6 py-5 pb-0 pt-lg-0">
                     <h3 class="text-primary mb-3">I'm</h3>
                     <h1 class="display-3 mb-3">Sumit Kumar</h1>
                     <h2 class="typed-text-output d-inline">DevOps / Cloud Engineer </h2>
@@ -98,19 +96,43 @@
                             <span></span>
                         </button>
                         <h5 class="ms-4 mb-0 d-none d-sm-block">Play Video</h5>
-                    </div>
-
-                    <div class="d-flex align-items-center pt-3">
-                        <span><img class="img-fluid" src="https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif    " alt="img">
-                            </span>
-                    </div>
-
-
+                    </div> 
                 </div>
                 <div class="col-lg-6">
-                    <img class="img-fluid" src="static/img/sumit.jpg" alt="">
+                    <img class="img-fluid "style=" height:700px; width:100%;border-radius: 10%;" src="static/img/sumit.jpg" alt="">
                 </div>
             </div>
+        </div>
+        <div class="icon">
+            <span><img style="height:130px; width:120px, display: flex; border-radius: 50%; "src="static/img/Git_2.jpeg" alt="Icon"></span>
+            <span><img style="height:130px; width:130px, display: flex; border-radius: 50%; "src="static/img/Fit_logo.gif" alt="Icon"></span>
+            <span><img style="height:60px; width:60px, display: flex; border-radius: 90%; "src="static/img/Git.gif" alt="Icon"></span>
+            <span><img style="height:150px; width:140px, display: flex; border-radius: 20%; "src="static/img/Docker.gif" alt="Icon"></span>
+            <span><img style="height:80px; width:70px, display: flex; border-radius: 50%; "src="static/img/Ansible.gif" alt="Icon"></span>
+            <span><img style="height:200px; width:180px, display: flex; border-radius: 50%; "src="static/img/k8s.gif" alt="Icon"></span>
+            <span><img style="height:200px; width:140px, display: flex; border-radius: 0%; "src="static/img/k8s_1.gif" alt="Icon"></span>
+            <span><img style="height:130px; width:130px, display: flex; border-radius: 50%; "src="static/img/AWS-Prometheus.gif" alt="Icon"></span>
+            <span><img style="height:120px; width:120px, display: flex; border-radius: 50%; "src="static/img/azure.gif" alt="Icon"></span>
+            <span><img style="height:45px; width:0px, display: flex; border-radius: 10%; "src="static/img/sonarqube1.png" alt="Icon"></span>
+            <span><img style="height:130px; width:60px, display: flex; border-radius: 50%; "src="static/img/sonarqube.gif" alt="Icon"></span>
+            <span><img style="height:160px; width:60px, display: flex;"src="static/img/trivy.png" alt="Icon"></span>
+            <span><img style="height:130px; width:95px, display: flex; "src="static/img/Maven.svg" alt="Icon"></span>
+            <span><img style="height:130px; width:60px, display: flex;"src="static/img/Apache_Tomcat_logo.svg" alt="Icon"></span>
+            <span><img style="height:100px; width:60px, display: flex; "src="static/img/terraform.svg" alt="Icon"></span>
+            <span><img style="height:70px; width:60px, display: flex; "src="static/img/nagious.svg" alt="Icon"></span>
+            <span><img style="height:130px; width:60px, display: flex; "src="static/img/ubuntu.gif" alt="Icon"></span>
+            <span><img style="height:70px; width:60px, display: flex;  "src="static/img/linux.gif" alt="Icon"></span>
+            <span><img style="height:130px; width:60px, display: flex; border-radius: 50%; "src="static/img/eks.png" alt="Icon"></span>
+            <span><img style="height:130px; width:60px, display: flex; border-radius: 50%; "src="static/img/chef.webp" alt="Icon"></span>
+            <span><img style="height:130px; width:60px, display: flex; border-radius: 50%; "src="static/img/jenkins1.png" alt="Icon"></span>
+            <span><img style="height:130px; width:60px, display: flex; border-radius: 20%; "src="static/img/mysql1.gif" alt="Icon"></span>
+            <span><img style="height:130px; width:130px, display: flex;  "src="static/img/loadbalancer1.gif" alt="Icon"></span>
+            <span><img style="height:130px; width:130px, display: flex; border-radius: 20%; "src="static/img/Jenkins.gif" alt="Icon"></span>
+            <span><img style="height:130px; width:130px, display: flex; border-radius: 20%; "src="static/img/nginx.gif" alt="Icon"></span>
+            <span><img style="height:140px; width:100%, display: flex; border-radius: 30%; "src="static/img/owasp.gif" alt="Icon"></span>
+            <span><img style="height:140px; width:100%, display: flex; border-radius: 20%; "src="static/img/AWS.gif" alt="Icon"></span>
+            <span><img style="height:140px; width:100%, display: flex; border-radius: 20%; "src="static/img/AWS-Service-Broker.png" alt="Icon"></span>
+            <span><img style="height:250px; width:100%, display: flex; border-radius: 20%; "src="static/img/dev-ops1.svg" alt="Icon"></span>
         </div>
     </div>
     <!-- Header End -->
@@ -1049,7 +1071,7 @@
             <div class="bg-dark">
                 <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3508.573701782682!2d77.0807969!3d28.432117399999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d18a1f49e33b9%3A0x8749d51f529a9cb!2s416%2C%20416%2C%20Manohara%20Marg%2C%20Wazirabad%2C%20Sector%2052%2C%20Gurugram%2C%20Haryana%20122003!5e0!3m2!1sen!2sin!4v1721680405158!5m2!1sen!2sin"
-                frameborder="0" style="width: 100%; height: 550px; border:0;" allowfullscreen="" aria-hidden="false"
+                frameborder="0" style="width: 100%; height: 500px; border:0;" allowfullscreen="" aria-hidden="false"
                 tabindex="0"></iframe>
             </div>
         </div>
@@ -1063,7 +1085,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; <a class="border-bottom text-secondary" href="#">Your Site Name</a>, All Right Reserved.
+                        &copy; <a class="border-bottom text-secondary" href="#">S_kumar portfolio</a>
                     </div>
                     <div class="col-md-6 text-center text-md-end">
                         <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
@@ -1078,7 +1100,7 @@
 
 
     <!-- Back to Top -->
-    <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
+    <a href="index.html" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
 
 
     <!-- JavaScript Libraries -->
