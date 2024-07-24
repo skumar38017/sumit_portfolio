@@ -10,7 +10,7 @@
 
 🔭 I’m currently working on **AWS and Azure Cloud**
 
-- 📝 I regularly write articles on [https://hashnode.com/@Madhup2908](https://hashnode.com/@Madhup2908)
+<!-- - 📝 I regularly write articles on [https://hashnode.com/@Madhup2908](https://hashnode.com/@Madhup2908) -->
 
 - 💬 Ask me about **DevOps, AWS cloud required for DevOps**
 
@@ -18,7 +18,7 @@
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
-<a href="#" target="blank"><img align="center" src="https://github.com/protfolio/protfolio/static/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="" height="65" width="75" /></a>
+<a href="https://www.linkedin.com/in/sumit-kumar-4a77a32a9/" target="blank"><img align="center" src="https://github.com/sumitkumar74604/sumit_portfolio.git/protfolio/protfolio/static/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="https://www.linkedin.com/in/sumit-kumar-4a77a32a9/" height="65" width="75" /></a>
 
 <a href="https://www.linkedin.com/in/sumit-kumar-4a77a32a9/" target="blank"><img align="center" src="https://github.com/sumitkumar74604/sumit_portfolio.git/protfolio/protfolio/static/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="https://www.linkedin.com/in/sumit-kumar-4a77a32a9/" height="55" width="50" /></a>
 
