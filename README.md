@@ -1,22 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">A passionate DevOps/Cloud Engineer willing to implement my DevOps skills in a organization</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devmadhup&label=Profile%20views&color=0e75b6&style=flat" alt="devmadhup" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit_portfolio&label=Profile%20views&color=0e75b6&tyle=flat"alt="sumit_portfolio" /> </p> -->
 <img width="100%" src="https://miro.medium.com/v2/resize:fit:1400/1*_C229kNHrLID-ST8g9Ao_g.gif" alt="img" />
-<br>
 <br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
-<!-- - 🔭 I’m currently working on **AWS and Azure Cloud**
+🔭 I’m currently working on **AWS and Azure Cloud**
 
 - 📝 I regularly write articles on [https://hashnode.com/@Madhup2908](https://hashnode.com/@Madhup2908)
 
 - 💬 Ask me about **DevOps, AWS cloud required for DevOps**
 
-- 📫 How to reach me **8007930568pandey@gmail.com**
+- 📫 How to reach me **kumar.sumit74604@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 <a href="https://twitter.com/madhuppandey29" target="blank"><img align="center" src="https://github.com/DevMadhup/DevMadhup/blob/main/twitter.gif" alt="madhuppandey29" height="65" width="75" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/madhup-pandey-0311821b3/" target="blank"><img align="center" src="https://github.com/DevMadhup/DevMadhup/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="https://www.linkedin.com/in/madhup-pandey-0311821b3/" height="55" width="50" /></a>
