@@ -60,6 +60,9 @@
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/terraform.svg" alt="terraform" width="130" height="100"/> </a> 
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/bash.png" alt="bash" width="130" height="100"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/finaldevops.gif" alt="finaldevops" width="130" height="100"/> </a>
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Jenkins.gif" alt="Jenkins" width="130" height="100"/> </a> 
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/loadbalancer.gif" alt="loadbalancer" width="130" height="100"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Screenshot from 2024-07-22 23-20-02.png" alt="Screenshot from 2024-07-22 23-20-02" width="130" height="100"/> </a>
 
 </p>
 
