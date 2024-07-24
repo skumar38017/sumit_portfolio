@@ -20,9 +20,12 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sumit-kumar-4a77a32a9/" target=""><img align="center" src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="linkedin_gif" height="55" width="55" /></a>
 
-<a href="https://www.linkedin.com/in/sumit-kumar-4a77a32a9/" target="blank"><img align="center" src="https://github.com/sumitkumar74604/sumit_portfolio.git/protfolio/protfolio/static/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="https://www.linkedin.com/in/sumit-kumar-4a77a32a9/" height="55" width="50" /></a>
+<a href="#" target=""><img align="center" src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/imginstagram.webp" alt="instagram" height="55" width="50" /></a>
 
-<a href="#" target="blank"><img align="center" src="https://github.com/sumitkumar74604/sumit_portfolio.git/protfolio/protfolio/static/img/insta.gif" alt="sumit_portfolio" height="75" width="80" /></a>
+<a href="#" target=""><img align="center" src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/twitter.gif" alt="twitter" height="55" width="50" /></a>
+</p>
+
+<a href="#" target=""><img align="center" src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/whatsapp.gif" alt="whatsapp" height="55" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
