@@ -2,10 +2,9 @@
 <h3 align="center">A passionate DevOps/Cloud Engineer willing to implement my DevOps skills in a organization</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmadhup&label=Profile%20views&color=0e75b6&style=flat" alt="devmadhup" /> </p>
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*_C229kNHrLID-ST8g9Ao_g.gif" alt="img" />
+<img width="100%" src="https://miro.medium.com/v2/resize:fit:1400/1*_C229kNHrLID-ST8g9Ao_g.gif" alt="img" />
 <br>
 <br>
-
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
