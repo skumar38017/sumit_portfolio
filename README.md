@@ -26,6 +26,19 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="ansible" border-radius="50%"  width="60" height="55"/> 
+
+</a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Apache_Tomcat_logo.svg" alt="tomcat" width="60" height="55"/> </a> 
+
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="bash" width="55" height="55"/> </a> 
+<a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="circleci" width="45" height="55"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="docker" width="55" height="55"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="git" width="80" height="55"/> </a> 
+<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="grafana" width="55" height="65"/> </a> 
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="jenkins" width="75" height="55"/> </a> 
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="kubernetes" width="55" height="55"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="linux" width="55" height="55"/> </a>
+<a href="https://prometheus.io/" target="_blank" ><img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" height="55" /></a>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="ansible" width="60" height="55"/> 
 </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="azure" width="60" height="55"/> </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="bash" width="55" height="55"/> </a> 
@@ -37,16 +50,7 @@
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="kubernetes" width="55" height="55"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="linux" width="55" height="55"/> </a>
 <a href="https://prometheus.io/" target="_blank" ><img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" height="55" /></a>
-</a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="azure" width="60" height="55"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="bash" width="55" height="55"/> </a> 
-<a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="circleci" width="45" height="55"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="docker" width="55" height="55"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="git" width="80" height="55"/> </a> 
-<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="grafana" width="55" height="65"/> </a> 
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="jenkins" width="75" height="55"/> </a> 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="kubernetes" width="55" height="55"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="linux" width="55" height="55"/> </a>
-<a href="https://prometheus.io/" target="_blank" ><img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" height="55" /></a>
+
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmadhup&show_icons=true&locale=en&layout=compact" alt="devmadhup" /></p> -->
