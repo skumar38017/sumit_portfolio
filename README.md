@@ -18,14 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sumit-kumar-4a77a32a9/" target=""><img align="center" src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="linkedin_gif" height="45" width="45" /></a>
-
-<a href="#" target=""><img align="center"  align="left" src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/instagram.webp" alt="instagram" height="55" width="50" /></a>
-
-<a href="#" target=""><img align="center"  align="left" src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/twitter.gif" alt="twitter" height="55" width="50" /></a>
-
-
-<a href="#" target=""><img align="center"  align="left" src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/whatsapp.gif" alt="whatsapp" height="55" width="50" /></a>
+<a href="https://www.linkedin.com/in/sumit-kumar-4a77a32a9/" target=""><img align="center" src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="linkedin_gif" height="35" width="35" /></a>
+<a href="#" target=""><img align="center" src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/instagram.webp" alt="instagram" height="35" width="30" /></a>
+<a href="#" target=""><img align="center"src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/twitter.gif" alt="twitter" height="35" width="35" /></a>
+<a href="#" target=""><img align="center" src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/whatsapp.gif" alt="whatsapp" height="35" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
