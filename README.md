@@ -18,19 +18,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sumit-kumar-4a77a32a9/" target=""><img align="center" src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="linkedin_gif" height="35" width="35" /></a>
-<a href="#" target=""><img align="center" src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/instagram.webp" alt="instagram" height="45" width="45" /></a>
-<a href="#" target=""><img align="center"src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/twitter.gif" alt="twitter" height="35" width="35" /></a>
-<a href="#" target=""><img align="center" src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/whatsapp.gif" alt="whatsapp" height="35" width="35" /></a>
+<a href="https://www.linkedin.com/in/sumit-kumar-4a77a32a9/" target="blank"><img align="center" src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="linkedin_gif" height="35" width="35" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/instagram.webp" alt="instagram" height="45" width="45" /></a>
+<a href="#" target="blank"><img align="center"src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/twitter.gif" alt="twitter" height="35" width="35" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/whatsapp.gif" alt="whatsapp" height="35" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="ansible" border-radius="50%"  width="60" height="55"/> 
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="ansible" border-radius="30%"  width="100" height="55"/></a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Apache_Tomcat_logo.svg" alt="tomcat" width="60" height="55"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/AWS.gif" alt="aws" width="55" height="55"/> </a> 
 
-</a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Apache_Tomcat_logo.svg" alt="tomcat" width="60" height="55"/> </a> 
-
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="bash" width="55" height="55"/> </a> 
 <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="circleci" width="45" height="55"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="docker" width="55" height="55"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/Ansible.gif" alt="git" width="80" height="55"/> </a> 
