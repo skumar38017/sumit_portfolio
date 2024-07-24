@@ -16,9 +16,9 @@
 
 - 📫 How to reach me **kumar.sumit74604@outlook.com**
 
-<!-- <h3 align="left">Connect with me:</h3> -->
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sumit-kumar-4a77a32a9/" target="blank"><img align="center" src="https://github.com/sumit_portfolio/protfolio/protfolio/static/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="linkedin" height="65" width="75" /></a>
+<a href="https://www.linkedin.com/in/sumit-kumar-4a77a32a9/" target="blank"><img align="center" src="https://github.com/protfolio/protfolio/aster/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="linkedin" height="65" width="75" /></a>
 
 <a href="https://www.linkedin.com/in/sumit-kumar-4a77a32a9/" target="blank"><img align="center" src="https://github.com/sumitkumar74604/sumit_portfolio.git/protfolio/protfolio/static/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="https://www.linkedin.com/in/sumit-kumar-4a77a32a9/" height="55" width="50" /></a>
 
