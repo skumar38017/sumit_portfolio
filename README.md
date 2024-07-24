@@ -58,9 +58,8 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/trivy.png" alt="trivy" width="130" height="100"/> </a>
 <a href="https://prometheus.io/" target="_blank" ><img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/ubuntu.gif" width="130" height="100" /></a>
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/terraform.svg" alt="terraform" width="130" height="100"/> </a> 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/html.gif" alt="html" width="130" height="100"/> </a> 
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/trivy.png" alt="trivy" width="130" height="100"/> </a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/bash.png" alt="bash" width="130" height="100"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/sumitkumar74604/sumit_portfolio/blob/master/protfolio/protfolio/static/img/finaldevops.gif" alt="finaldevops" width="130" height="100"/> </a>
 
 </p>
 
