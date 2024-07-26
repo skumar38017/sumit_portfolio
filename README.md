@@ -67,12 +67,12 @@
 
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmadhup&show_icons=true&locale=en&layout=compact" alt="devmadhup" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=USERNAME&=true&locale=en&layout=compact" alt="sumit_protfolio" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmadhup&show_icons=true&locale=en" alt="devmadhup" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=USERNAME&=true&locale=en" alt="sumit_protfolio" /></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DevMadhup&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=USERNAME&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmadhup&" alt="devmadhup" /></p>
- -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&" alt="sumit_protfolio" /></p>
+ 
