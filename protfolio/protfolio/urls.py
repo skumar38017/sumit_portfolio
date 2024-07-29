@@ -16,9 +16,23 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from protfolio import views
+from . import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.index, name='index'),  # Ensure the URL pattern is correct
+
+    #----------------------------- Projects ---------------------------------------
+    #       page name                   function name               function name
+    path('two_tier_deployment', views.two_tier_deployment, name='two_tier_deployment'),  # Correct URL pattern and view
+    path('3_tier_deployment', views.three_tier_deployment, name='three_tier_deployment'),  # Correct URL pattern and view
+    path('AWS_DevOps_Demo_project_Deployment', views.AWS_DevOps_Demo_project_Deployment, name='AWS_DevOps_Demo_project_Deployment'), 
+    path('End_to_End_Deployment', views.End_to_End_Deployment, name='End_to_End_Deployment'), 
+    path('Hospital_Management', views.Hospital_Management, name='Hospital_Management'), 
+    path('todo_application', views.Todo_Application, name='Todo_Application'), 
+    path('ToDo_Web_app', views.ToDo_Web_app, name='ToDo_Web_app'), 
+    path('user_management_system', views.User_Management_System, name='User_Management_System'), 
 ]
+
+
+

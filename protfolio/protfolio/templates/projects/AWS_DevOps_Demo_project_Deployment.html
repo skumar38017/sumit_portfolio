@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>AWS-DevOps-Demo-project-Deployment</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+
+    <!-- Favicon -->
+    <link href="static/img/AWS_DevOps_Demo_project_Deployment.jpeg" rel="icon">
+</head>
+
+<body>
+    <h1 style="text-align:center; content:jestify;">** AWS-DevOps-Demo-project-Deployment ** </h1>
+    <p>
+    <h1 style="float:left;">Title: Deploying applications on AWS using DevOps practices involves
+        leveraging several
+        key services: CodeCommit, CodeBuild, CodeDeploy, CodePipeline, and EC2 instances running Ubuntu. Here’s how each
+        service
+        contributes to the deployment process:
+    </h1>
+    </p>
+
+    <div style="margin-left: 10%; margin-top:120px;">
+        <p>
+            1. CodeCommit: AWS CodeCommit is a fully managed source control service that hosts Git repositories.
+            It provides secure and scalable storage for your source code and allows collaborative development.
+            In the context of DevOps deployment, CodeCommit serves as the central repository where developers store and
+            version-control
+            their application code.
+        </p>
+
+        <p>
+            2. CodeBuild: AWS CodeBuild is a fully managed continuous integration service that compiles source code,
+            runs tests, and produces software packages that are ready to deploy. It pulls source code from CodeCommit,
+            builds it according to defined build specifications, and produces artifacts like executable files or Docker
+            containers.
+            CodeBuild ensures that every change to the codebase is automatically built, tested, and validated, promoting
+            reliability and
+            consistency in the deployment pipeline.
+        </p>
+
+        <p>
+            3. CodeDeploy: AWS CodeDeploy automates code deployments to any instance, including EC2 instances and
+            on-premises servers.
+            It allows you to deploy applications in a consistent manner across development, staging, and production
+            environments.
+        </p>
+        <p>
+            Deployment Workflow : -In practice, the deployment workflow using these services might look like this:<br>
+        <p></p>
+
+        * Developers commit code changes to CodeCommit.<br>
+
+        * CodePipeline detects changes in CodeCommit and triggers a build in CodeBuild.<br>
+
+        * CodeBuild retrieves the source code, compiles/builds it, and produces artifacts.<br>
+
+        * CodePipeline then deploys these artifacts using CodeDeploy to EC2 instances running Ubuntu.<br>
+
+        * CodeDeploy manages the deployment process, ensuring that updates are rolled out smoothly across instances.<br>
+
+        * Monitoring and logging can be integrated using AWS services like CloudWatch to track application performance
+        and
+        health.<br>
+        </P>
+        <p>
+            4. Jenkins CI/CD: Jenkins serves as the core for continuous integration and continuous deployment pipelines.
+            Upon changes being pushed to the GitHub repository, Jenkins automatically triggers the CI/CD pipeline. The
+            pipeline includes
+            stages for building Docker images for the React.js front-end, Node.js back-end, and MongoDB, running tests,
+            pushing images to
+            Amazon ECR, and deploying containers to Amazon EKS clusters.
+        </p>
+    </div>
+    <p>
+    <h2>
+        <span style="float:left;">Skills :- </span>
+    </h2>
+    <h3>
+        <ul style="float:left; margin-top:5px;">
+            AWS CodeCommit · AWS CodeBuild · AWS CodeDeploy · AWS CodePipeline · Microsoft Visual Studio Code · Amazon
+            EC2 · Amazon S3 · Artifacts
+        </ul>
+    </h3>
+    </p>
+
+    <body>
